@@ -29,9 +29,6 @@
 - Feels Like Temperature
 - Sunrise and Sunset Times
 
-## Project Image
-
-
 ## Run Locally
 
 Go to the project directory
