@@ -24,7 +24,7 @@ Insert gif or link to demo
 Feels Like Temperature
 Sunrise and Sunset Times
 
-## Screenshots
+## Project Image
 
 ![WeatherApi](https://github.com/user-attachments/assets/c6a7fc60-fec2-4369-bf0b-c3206aa99928)
 
