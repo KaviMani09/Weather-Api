@@ -7,9 +7,9 @@ WEATHER - API
 
 **Client:** HTML, CSS, JavaScript, API
 
-## Demo
+## Live 
 
-Insert gif or link to demo
+[Insert gif or link to demo](https://weatherforcastapi.netlify.app/)
 
 ## Features
 
