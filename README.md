@@ -52,7 +52,3 @@ Open with live server
 ## Authors
 
 - [@KaviMani](https://www.github.com/KaviMani09)
-
-
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
