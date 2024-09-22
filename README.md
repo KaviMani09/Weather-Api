@@ -1,11 +1,16 @@
 
-# Project Title
+# WEATHER API
 
-WEATHER - API
+![WeatherApi](https://github.com/user-attachments/assets/c6a7fc60-fec2-4369-bf0b-c3206aa99928)
 
 ## Skills
 
-**Client:** HTML, CSS, JavaScript, API
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT JS
+- BOOTSTRAP
+- API
 
 ## Live 
 
@@ -13,20 +18,19 @@ WEATHER - API
 
 ## Features
 
--Current Location Weather Update
--7-Day Weather Forecast
--Search Functionality
--Air Quality Index (AQI)
--Detailed Weather Metrics
--Humidity
--Visibility
--Pressure
-Feels Like Temperature
-Sunrise and Sunset Times
+- Current Location Weather Update
+- 7-Day Weather Forecast
+- Search Functionality
+- Air Quality Index (AQI)
+- Detailed Weather Metrics
+- Humidity
+- Visibility
+- Pressure
+- Feels Like Temperature
+- Sunrise and Sunset Times
 
 ## Project Image
 
-![WeatherApi](https://github.com/user-attachments/assets/c6a7fc60-fec2-4369-bf0b-c3206aa99928)
 
 ## Run Locally
 
