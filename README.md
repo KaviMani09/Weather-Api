@@ -44,7 +44,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/KaviMani09)
+- [@KaviMani](https://www.github.com/KaviMani09)
 
 
 
