@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+WEATHER - API
 
 ## Tech Stack
 
@@ -22,12 +22,6 @@ Insert gif or link to demo
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
 
 Go to the project directory
 
@@ -50,12 +44,8 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@codewithsadee](https://www.github.com/KaviMani09)
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
 
 For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
