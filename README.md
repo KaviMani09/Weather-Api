@@ -3,7 +3,7 @@
 
 WEATHER - API
 
-## Tech Stack
+## Skills
 
 **Client:** HTML, CSS, JavaScript, API
 
@@ -13,14 +13,14 @@ Insert gif or link to demo
 
 ## Features
 
-Current Location Weather Update
-7-Day Weather Forecast
-Search Functionality
-Air Quality Index (AQI)
-Detailed Weather Metrics
-Humidity
-Visibility
-Pressure
+-Current Location Weather Update
+-7-Day Weather Forecast
+-Search Functionality
+-Air Quality Index (AQI)
+-Detailed Weather Metrics
+-Humidity
+-Visibility
+-Pressure
 Feels Like Temperature
 Sunrise and Sunset Times
 
@@ -33,7 +33,7 @@ Sunrise and Sunset Times
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd weather-Api
 ```
 
 Open with VSCode
