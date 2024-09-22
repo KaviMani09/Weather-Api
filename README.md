@@ -9,7 +9,7 @@ WEATHER - API
 
 ## Live 
 
-[Insert gif or link to demo](https://weatherforcastapi.netlify.app/)
+[WeatherApiLive](https://weatherforcastapi.netlify.app/)
 
 ## Features
 
