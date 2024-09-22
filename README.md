@@ -26,7 +26,7 @@ Sunrise and Sunset Times
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/jfbB3Vz)
+![WeatherApi](https://github.com/user-attachments/assets/c6a7fc60-fec2-4369-bf0b-c3206aa99928)
 
 ## Run Locally
 
